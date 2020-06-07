@@ -1,7 +1,7 @@
 <h1>Red Onion Website</h1>
 <h2>Live Site Link: https://red-onion-server.firebaseapp.com/ </h2>
 
-Online food ordering website. Food will be delivered to the customer's given address.
+A full-stack online food ordering website where users can choose food to eat from the available food menu. Food will be delivered to the customer's given address if the customer pays for the order. 
 
 Library/framework/tools used to make this website:
 
@@ -15,3 +15,5 @@ Library/framework/tools used to make this website:
 8. react-firestore
 9. react-hook-form
 10. react-router-dom
+\
+[Back-End Code](https://github.com/ornob011/server-onion)
